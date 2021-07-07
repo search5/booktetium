@@ -1,0 +1,2 @@
+recursive-include booktetium/templates *
+recursive-include booktetium/static *
